@@ -5,5 +5,5 @@ https://llava-vl.github.io/
 
 https://github.com/pimang62/dacon-multimodal-vqa
 
-#image dataset
+# image dataset
 https://dacon.io/competitions/official/236118/overview/description
